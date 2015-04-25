@@ -1,0 +1,9 @@
+{
+  "title": "$:/plugins/butitsnotme/momentjs",
+  "description": "A wrapper for moment.js",
+  "author": "butitsnotme",
+  "version": "0.0.1",
+  "core-version": ">=5.0.8",
+  "source": "https://github.com/butitsnotme/momentjs",
+  "plugin-type": "plugin"
+}

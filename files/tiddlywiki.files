@@ -1,0 +1,13 @@
+{
+	"tiddlers": [
+		{
+			"file": "moment.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/butitsnotme/momentjs/moment.js",
+				"module-type": "library",
+        "global-module": "true"
+			}
+		}
+	]
+}
